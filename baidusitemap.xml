@@ -1,6 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://jocatw.github.io/2021/01/20/Finecms_v5.4%E5%AD%98%E5%9C%A8CSRF%E6%BC%8F%E6%B4%9E%E5%8F%AF%E4%BF%AE%E6%94%B9%E7%AE%A1%E7%90%86%E5%91%98%E8%B4%A6%E6%88%B7%E5%AF%86%E7%A0%81/</loc>
+    <lastmod>2021-01-20</lastmod>
+  </url>
+  <url>
+    <loc>https://jocatw.github.io/2021/01/20/FineCMS_v5.0.8%E4%B8%A4%E5%A4%84getshell/</loc>
+    <lastmod>2021-01-20</lastmod>
+  </url>
+  <url>
+    <loc>https://jocatw.github.io/2021/01/20/Easy%20File%20Sharing%20Web%20Server%207.2%20-%20GET%20%E7%BC%93%E5%86%B2%E5%8C%BA%E6%BA%A2%E5%87%BA%20(SEH)/</loc>
+    <lastmod>2021-01-20</lastmod>
+  </url>
+  <url>
+    <loc>https://jocatw.github.io/2021/01/20/DomainMod%E7%9A%84XSS%E9%9B%86%E5%90%88/</loc>
+    <lastmod>2021-01-20</lastmod>
+  </url>
+  <url>
+    <loc>https://jocatw.github.io/2021/01/20/CVE-2019-17662-ThinVNC%201.0b1%20-%20Authentication%20Bypass/</loc>
+    <lastmod>2021-01-20</lastmod>
+  </url>
+  <url>
+    <loc>https://jocatw.github.io/2021/01/20/CVE-2019-17624-X.Org%20X%20Server%201.20.4%20-%20Local%20Stack%20Overflow-Linux%E5%9B%BE%E5%BD%A2%E7%95%8C%E9%9D%A2X%20Server%E6%9C%AC%E5%9C%B0%E6%A0%88%E6%BA%A2%E5%87%BAPOC/</loc>
+    <lastmod>2021-01-20</lastmod>
+  </url>
+  <url>
+    <loc>https://jocatw.github.io/2021/01/20/cve-2019-17424%20nipper-ng_0.11.10-Remote_Buffer_Overflow%E8%BF%9C%E7%A8%8B%E7%BC%93%E5%86%B2%E5%8C%BA%E6%BA%A2%E5%87%BA%E9%99%84PoC/</loc>
+    <lastmod>2021-01-20</lastmod>
+  </url>
+  <url>
+    <loc>https://jocatw.github.io/2021/01/20/CVE-2019-16920-D-Link-rce/</loc>
+    <lastmod>2021-01-20</lastmod>
+  </url>
+  <url>
+    <loc>https://jocatw.github.io/2021/01/20/CVE-2019-16759%20vBulletin%205.x%200day%20pre-auth%20RCE%20exploit/</loc>
+    <lastmod>2021-01-20</lastmod>
+  </url>
+  <url>
+    <loc>https://jocatw.github.io/2021/01/20/CVE-2019-16314%20indexhibit%20cms%20v2.1.5%20%E5%AD%98%E5%9C%A8%E9%87%8D%E8%A3%85%E5%B9%B6%E5%AF%BC%E8%87%B4getshell/</loc>
+    <lastmod>2021-01-20</lastmod>
+  </url>
+  <url>
     <loc>https://jocatw.github.io/2021/01/20/CVE-2019-16309%20FlameCMS%203.3.5%20%E5%90%8E%E5%8F%B0%E7%99%BB%E5%BD%95%E5%A4%84%E5%AD%98%E5%9C%A8sql%E6%B3%A8%E5%85%A5%E6%BC%8F%E6%B4%9E/</loc>
     <lastmod>2021-01-19</lastmod>
   </url>
@@ -78,6 +118,10 @@
   </url>
   <url>
     <loc>https://jocatw.github.io/2021/01/17/Amazon%20Kindle%20Fire%20HD%20(3rd%20Generation)%E5%86%85%E6%A0%B8%E9%A9%B1%E5%8A%A8%E6%8B%92%E7%BB%9D%E6%9C%8D%E5%8A%A1%E6%BC%8F%E6%B4%9E/</loc>
+    <lastmod>2021-01-17</lastmod>
+  </url>
+  <url>
+    <loc>https://jocatw.github.io/2021/01/20/freeFTP1.0.8-'PASS'%E8%BF%9C%E7%A8%8B%E7%BC%93%E5%86%B2%E5%8C%BA%E6%BA%A2%E5%87%BA/</loc>
     <lastmod>2021-01-17</lastmod>
   </url>
   <url>
